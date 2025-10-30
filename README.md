@@ -1,16 +1,28 @@
-## Hi there 👋
+# QA Portfolio – Oral Sertbakan
 
-<!--
-**Taimi91/Taimi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hybrid Game + Software QA  
+Former Class-III Medical Device Validation Specialist
 
-Here are some ideas to get you started:
+## 📂 Projects
+| Category       | Folder                | Description                              |
+|---------------|------------------------|------------------------------------------|
+| Web App QA     | /Web-App-Amazon        | Functional & regression testing for an e-commerce platform |
+| Mobile QA      | /Mobile-Flight-App     | Flight booking mobile app testing       |
+| Game QA        | /Game-QA-WoW           | UI & gameplay consistency testing for WoW |
+| Steam QA       | /Steam-Indie           | Exploratory testing of an indie Steam game |
+| Automation     | /Automation            | Basic login automation scripts           |
+| SQL            | /SQL                   | Database query testing & validation      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+Manual Testing • Game QA • Web/Mobile QA • Regression • Risk-Based Testing • SQL • Python • Selenium • Playwright • Jira • Git
+
+## 🔗 Links
+- GitHub: [https://github.com/Taimi91](https://github.com/Taimi91)  
+- LinkedIn: *(linkini buraya ekle)*  
+
+## 🎯 Summary
+With 9+ years in highly regulated medical device validation environments, I bring a disciplined, risk-aware and documentation-driven mindset to software and game QA. This portfolio showcases my shift into hybrid QA (software + game), combining strong foundational testing skills with emerging automation, game testing and database verification capabilities.
+
+## 📬 Contact
+Email: oral.sertbakan@[..]  
+LinkedIn: *(profil linkini buraya yaz)*  
