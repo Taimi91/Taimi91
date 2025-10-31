@@ -1,0 +1,46 @@
+1. Proje Tanımı:
+World of Warcraft, geniş açık dünya içeriği, çok oyunculu çevrimiçi rol yapma oyunu olarak bilinir. Oyuncuların farklı görevleri tamamlaması, zindanları keşfetmesi ve PvP mücadelelerine katılması hedeflenir.
+
+2. Test Kapsamı:
+
+Oyun Mekanikleri Testleri: Karakter oluşturma, yetenekler, envanter yönetimi ve görev sistemleri.
+
+Performans Testleri: Oyunun farklı donanımlarda ve ağ koşullarında performansı.
+
+Güvenlik Testleri: Hesap güvenliği, bot tespiti ve veri koruması.
+
+Uyumluluk Testleri: Farklı işletim sistemleri ve cihazlarda oyun uyumluluğu.
+
+3. Test Stratejisi:
+
+Manuel Testler: Oyun içi görev akışlarının ve etkileşimlerin kontrolü.
+
+Otomasyon Testleri: Oyun içi senaryoların otomatik olarak test edilmesi.
+
+Yük Testleri: Aynı anda çok sayıda oyuncunun oyuna bağlanması ve performansın ölçülmesi.
+
+Güvenlik Testleri: Hesap hırsızlığı ve hile tespiti.
+
+4. Test Ortamı:
+
+Geliştirme Ortamı: Oyun geliştirme sürecindeki test sunucuları.
+
+Test Ortamı: Beta sunucular ve sınırlı oyuncu erişimi.
+
+Prodüksiyon Ortamı: Canlı sunucular ve geniş oyuncu kitlesi.
+
+5. Test Senaryoları:
+
+Görev ve Hikaye Senaryoları: Ana görevler, yan görevler ve hikaye akışları.
+
+Zindan ve Raid Testleri: Zindanların ve raid’lerin zorluk seviyeleri, denge ve ödüller.
+
+PvP Testleri: Oyuncu karşılaşmaları, arenalar ve dengelemeler.
+
+6. Raporlama ve İzleme:
+
+Hata Takibi: Oyun içi hataların kaydedilmesi ve düzeltilmesi.
+
+Performans Metrikleri: Sunucu yanıt süreleri, gecikme ve oyun içi stabilite.
+
+Test Döngüleri: Sürekli entegrasyon, güncelleme testleri ve denetimler.
