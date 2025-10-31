@@ -1,6 +1,6 @@
 # QA Portfolio – Oral Sertbakan
 
-Hybrid Game + Software QA  
+Games + Software QA  
 Former Class-III Medical Device Validation Specialist
 
 ## 📂 Projects
