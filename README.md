@@ -18,7 +18,7 @@ Manual Testing • Game QA • Web/Mobile QA • Regression • Risk-Based Testi
 
 ## 🔗 Links
 - GitHub: [https://github.com/Taimi91](https://github.com/Taimi91)  
-- LinkedIn: *(linkini buraya ekle)*  
+- LinkedIn: (https://www.linkedin.com/in/oral-sertbakan-b0332bb7/) 
 
 ## 🎯 Summary
 With 9+ years in highly regulated medical device validation environments, I bring a disciplined, risk-aware and documentation-driven mindset to software and game QA. This portfolio showcases my shift into hybrid QA (software + game), combining strong foundational testing skills with emerging automation, game testing and database verification capabilities.
