@@ -1,0 +1,48 @@
+Detaylı Test Planı: Web App Amazon Projesi
+
+1. Proje Tanımı:
+Web App Amazon, kullanıcıların geniş ürün yelpazesini arayıp inceleyebileceği ve güvenli bir şekilde satın alabileceği bir e-ticaret platformudur.
+
+2. Test Kapsamı:
+
+Kullanıcı Arayüzü Testleri: Farklı cihaz ve tarayıcılarda arayüzün uyumluluğu ve kullanılabilirliği.
+
+Fonksiyonel Testler: Arama, filtreleme, ürün detayları, sepete ekleme ve ödeme süreçleri.
+
+Performans Testleri: Yük testi, yanıt süresi ölçümleri ve optimizasyon.
+
+Güvenlik Testleri: Veri koruma, yetkilendirme ve güvenlik açıklarının taranması.
+
+3. Test Stratejisi:
+
+Manuel Testler: Kullanıcı senaryolarını elle test etme.
+
+Otomasyon Testleri: Selenium veya Cypress gibi araçlarla otomatik testler.
+
+Çapraz Tarayıcı Testleri: Farklı tarayıcı ve cihazlarda uyumluluğun sağlanması.
+
+Yük ve Stres Testleri: Aynı anda çok sayıda kullanıcının sistemi nasıl etkilediğini ölçme.
+
+4. Test Ortamı:
+
+Geliştirme Ortamı: Kodun ilk aşamada test edildiği ortam.
+
+Test Ortamı: Gerçek kullanıcı verileri olmadan testlerin yapıldığı ortam.
+
+Prodüksiyon Ortamı: Canlı sistemde testler, sınırlı sayıda kullanıcıyla.
+
+5. Test Senaryoları:
+
+Arama Senaryoları: Anahtar kelime aramaları, filtreleme seçenekleri ve sıralama.
+
+Sepet ve Ödeme Senaryoları: Ürün ekleme, çıkarma, ödeme adımları ve sipariş onaylama.
+
+Kullanıcı Yönetimi: Kayıt, giriş, şifre sıfırlama ve hesap ayarları.
+
+6. Raporlama ve İzleme:
+
+Hata Takibi: Bulunan hataların kaydedilmesi ve çözüm süreçleri.
+
+Performans Metrikleri: Yanıt süreleri, yük altında performans ve kullanıcı deneyimi.
+
+Test Döngüleri: Tekrar eden testler ve sürekli entegrasyon.
