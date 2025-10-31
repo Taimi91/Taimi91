@@ -24,5 +24,5 @@ Manual Testing • Game QA • Web/Mobile QA • Regression • Risk-Based Testi
 With 9+ years in highly regulated medical device validation environments, I bring a disciplined, risk-aware and documentation-driven mindset to software and game QA. This portfolio showcases my shift into hybrid QA (software + game), combining strong foundational testing skills with emerging automation, game testing and database verification capabilities.
 
 ## 📬 Contact
-Email: oral.sertbakan@[..]  
-LinkedIn: *(profil linkini buraya yaz)*  
+Email: oralsertbakan@outlook.com 
+LinkedIn: https://www.linkedin.com/in/oral-sertbakan-b0332bb7/
