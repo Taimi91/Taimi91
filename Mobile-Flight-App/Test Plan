@@ -1,0 +1,48 @@
+Detaylı Test Planı: Mobil Flight App
+
+1. Proje Tanımı:
+Mobil Flight App, kullanıcıların uçuş aramalarını yapabileceği, bilet rezervasyonu yapabileceği ve uçuş bilgilerini takip edebileceği bir mobil uygulamadır.
+
+2. Test Kapsamı:
+
+Kullanıcı Arayüzü Testleri: Farklı mobil cihazlarda arayüzün uyumluluğu ve kullanıcı deneyimi.
+
+Fonksiyonel Testler: Uçuş arama, tarih seçimi, bilet seçimi ve ödeme işlemleri.
+
+Performans Testleri: Uygulamanın hızlı yanıt verme süresi ve düşük veri kullanımı.
+
+Güvenlik Testleri: Kullanıcı verisinin korunması, kimlik doğrulama ve veri şifreleme.
+
+3. Test Stratejisi:
+
+Manuel Testler: Kullanıcı akışlarının elle kontrol edilmesi.
+
+Otomasyon Testleri: Appium gibi araçlarla otomatik testler.
+
+Çoklu Cihaz Testleri: iOS ve Android cihazlarda uyumluluğun sağlanması.
+
+Yük ve Stres Testleri: Yoğun kullanım anlarında uygulamanın performansının değerlendirilmesi.
+
+4. Test Ortamı:
+
+Geliştirme Ortamı: Kodun ilk aşamada test edildiği mobil ortam.
+
+Test Ortamı: Gerçek veriler olmadan uygulamanın test edildiği ortam.
+
+Prodüksiyon Ortamı: Canlı uygulamada sınırlı kullanıcı ile yapılan testler.
+
+5. Test Senaryoları:
+
+Uçuş Arama Senaryoları: Farklı tarihler, destinasyonlar ve filtrelerle arama yapma.
+
+Bilet Rezervasyonu: Uçuş seçimi, yolcu bilgileri girme ve ödeme süreci.
+
+Kullanıcı Yönetimi: Hesap oluşturma, giriş yapma, rezervasyon geçmişine erişim.
+
+6. Raporlama ve İzleme:
+
+Hata Takibi: Hataların kaydedilmesi ve çözüm süreçleri.
+
+Performans Metrikleri: Yanıt süresi, uygulamanın stabilitesi ve kullanıcı deneyimi.
+
+Test Döngüleri: Sürekli entegrasyon ve tekrar eden testler.
