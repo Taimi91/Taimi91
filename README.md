@@ -1,7 +1,7 @@
 # QA Portfolio – Oral Sertbakan
 
 Games + Software QA  
-Former Class-III Medical Device Validation Specialist
+Class-III Medical Device Validation Specialist
 
 ## 📂 Projects
 | Category       | Folder                | Description                              |
