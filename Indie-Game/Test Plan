@@ -1,0 +1,48 @@
+Detaylı Test Planı: Steam Indie Oyunu
+
+1. Proje Tanımı:
+Indie oyunu, Steam platformunda yayınlanan ve özgün oyun mekaniği, hikâye ve sanatsal tasarımıyla öne çıkan bir yapımdır. Oyuncuların keşfetmesi, bulmacaları çözmesi ve etkileşimde bulunması amaçlanır.
+
+2. Test Kapsamı:
+
+Oyun Mekanikleri Testleri: Karakter hareketleri, kontrol şemaları ve etkileşimler.
+
+Görsel ve Ses Testleri: Grafik kalitesi, animasyonlar ve ses efektleri.
+
+Performans Testleri: Farklı donanım yapılandırmalarında oyun akıcılığı ve stabilite.
+
+Uyumluluk Testleri: Çeşitli işletim sistemleri ve ekran çözünürlükleri ile uyumluluk.
+
+3. Test Stratejisi:
+
+Manuel Testler: Oyun içi görevler, bulmacalar ve hikâye akışlarının kontrolü.
+
+Otomasyon Testleri: Tekrarlayan oyun senaryolarının otomatik test edilmesi.
+
+Yük Testleri: Oyunun yoğun oyuncu sayısı altında performansının değerlendirilmesi.
+
+Güvenlik Testleri: Oyuncu verilerinin korunması ve hile tespiti.
+
+4. Test Ortamı:
+
+Geliştirme Ortamı: Erken erişim ve geliştirme sürecindeki testler.
+
+Test Ortamı: Beta testleri ve sınırlı oyuncu erişimi.
+
+Prodüksiyon Ortamı: Canlı oyun ve geniş oyuncu kitlesi.
+
+5. Test Senaryoları:
+
+Hikâye Senaryoları: Ana görevler, yan görevler ve etkileşimler.
+
+Bulmaca ve Keşif Senaryoları: Oyun içi bulmacaların zorluk seviyeleri ve keşif mekanikleri.
+
+Çok Oyunculu Testleri: Çok oyunculu modların dengelenmesi ve sunucu performansı.
+
+6. Raporlama ve İzleme:
+
+Hata Takibi: Oyun içi hataların kaydedilmesi ve çözülmesi.
+
+Performans Metrikleri: FPS, yükleme süreleri ve oyun içi akıcılık.
+
+Test Döngüleri: Sürekli güncellemeler ve yeni içeriklerin test edilmesi.
