@@ -17,7 +17,7 @@ Class-III Medical Device Validation Specialist
 Manual Testing • Game QA • Web/Mobile QA • Regression • Risk-Based Testing • SQL • Python • Selenium • Playwright • Jira • Git
 
 ## 🔗 Links
-- GitHub: [https://github.com/Taimi91](https://github.com/Taimi91)  
+- GitHub: (https://github.com/oralsertbakan) 
 - LinkedIn: (https://www.linkedin.com/in/oral-sertbakan-b0332bb7/) 
 
 ## 🎯 Summary
